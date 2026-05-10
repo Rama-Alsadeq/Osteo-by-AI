@@ -339,7 +339,7 @@ Applied to the OP clinical/lifestyle submodel. Decomposes each prediction to qua
 - Improve early-stage detection accuracy, particularly for subtle OA (KL Grade 1) and Osteopenia cases.
 - Extend joint coverage beyond the knee to include hips, spine, and wrists.
 - Expand the framework to support other bone-related conditions.
-- Deploy the system on **Google Cloud** for scalable, public access.
+- Deploy the system.
 
 ---
 
